@@ -7,5 +7,4 @@ This work uses:
 Satellite SSS dataset, 
 Auxiliary variables (SST, SSH, Windspeed),
 Deep learning (SRGAN),
-
 to reconstruct high-resolution salinity fields from degraded inputs.
